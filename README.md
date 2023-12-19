@@ -1,4 +1,4 @@
 #Demo
 
 this is a -demo
-author by muneeb
+author by zulqarnain(Sier)
